@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vianneyanibe.netlify.app](https://.vianneyanibenetlify.app)
 
-- 📫 How to reach me **anibe.mails@gmail.com**
+- 📫 How to reach me **anibe.mails@gmal.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
     <a href="https://twitter.com/Vianney_Anibe" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knjm_18" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/anibe-alexis-vianney-33542521b/. jean-marc koffi" target="blank">
+    <a href="https://www.linkedin.com/in/anibe-alexis-vianney-33542521b" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n. jean-marc koffi" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/vianney0556/" target="blank">
@@ -71,8 +71,8 @@
     </a>
 </p>
 
-<h3 align="right">Tools :</h3>
-<p align="right"> 
+<h3 align="left">Tools :</h3>
+<p align="left"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
